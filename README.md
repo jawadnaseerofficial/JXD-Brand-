@@ -2,6 +2,9 @@
 
 JXD Brand Page is a modern, responsive landing page built with React and Vite, designed to represent the identity and vision of a digital brand.
 It combines clean UI, smooth performance, and maintainable code to create a professional web presence.
+![lll](https://github.com/user-attachments/assets/965b2cfd-f619-4eee-a079-8ef8a476c3f0)
+
+
 
 # 🚀 Features
 ⚡ Fast performance powered by Vite
